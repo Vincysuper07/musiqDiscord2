@@ -1,6 +1,6 @@
 # Musiq for Modmail
 
-Music for Modmail lets you listen to music directly on your Modmail instance.
+Musiq for Modmail lets you listen to music directly on your Modmail instance.
 
 ## Installation
 
