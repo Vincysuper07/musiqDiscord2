@@ -11,4 +11,17 @@ plugins add Ergastolator1/musiqDiscord2/musiqDiscord2@master
 
 ## Commands
 
-**COMING SOON!**
+`join` - Joins a voice channel.
+`leave` - Clears the queue and leaves the voice channel.
+`loop` - Loops the currently playing song.
+`now` - Displays the currently playing song.
+`pause` - Pauses the currently playing song.
+`play` - Plays a song.
+`queue` - Shows the player's queue.
+`remove` - Removes a song from the queue at a given index.
+`resume` - Resumes a currently paused song.
+`shuffle` - Shuffles the queue.
+`skip` -
+`stop` - Stops playing song and clears the queue.
+`summon` - Summons the bot to a voice channel.
+`volume` - Sets the volume of the player.
